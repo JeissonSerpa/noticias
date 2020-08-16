@@ -1,0 +1,20 @@
+select{
+   display: inline-block;
+}
+
+.heading{
+   font-family: 'relaway' sans-serif;
+   font-weight: 900;
+   font-size: 1.7rem;
+   text-transform: uppercase;
+   text-align: center;
+}
+
+.buscador{
+   margin: 2rem 0;
+   text-align: left;
+}
+
+.btn_block{
+   width: 100%;
+}
