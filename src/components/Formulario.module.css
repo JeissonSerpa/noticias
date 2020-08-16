@@ -18,3 +18,15 @@ select{
 .btn_block{
    width: 100%;
 }
+
+.imgNoticia{
+   height: 225px;
+}
+
+.card{
+   height: 620px;
+}
+
+.card_content{
+   height: 320px;
+}
